@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DZ_10_WPF_AuthMenu/1.0.0": {
+        "runtime": {
+          "DZ_10_WPF_AuthMenu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DZ_10_WPF_AuthMenu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
